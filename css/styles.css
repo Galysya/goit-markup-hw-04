@@ -66,11 +66,7 @@
     letter-spacing: 0.02em;
     width: 264px;
 }
-.footer-section{
-    background: #2E2F42;
-    padding: 100px 0;
-    gap: 16px;
-}
+
 .footer-link{
     display: inline-block; 
     margin-bottom: 16px; 
@@ -617,12 +613,17 @@ font-weight: 500;
 line-height: 1.5;
 margin-bottom: 16px; 
 }
+.footer-section{
+    background: #2E2F42;
+    padding: 100px 0;
+}
 .foot-main{
     display: flex;
     align-items: baseline;
+}
+.foot-one{
     margin-right: 120px;
 }
-
 .footer-social{
     display: flex;
  gap: 16px;
