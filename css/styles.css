@@ -620,10 +620,9 @@ margin-bottom: 16px;
 .foot-main{
     display: flex;
     align-items: baseline;
-}
-.foot {
     margin-right: 120px;
 }
+
 .footer-social{
     display: flex;
  gap: 16px;
